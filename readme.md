@@ -2,6 +2,8 @@
 
 Instalación segura de NVM, Node.js LTS y herramientas esenciales con un solo comando.
 
+![nvm-installer banner](image.png)
+
 ---
 
 ## Tabla de contenidos
